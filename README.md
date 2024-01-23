@@ -1,0 +1,1 @@
+# CNN_skin_disease_dermnet
